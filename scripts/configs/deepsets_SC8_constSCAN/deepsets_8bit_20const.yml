@@ -19,6 +19,17 @@ data_hyperparams:
       - "/work/aserinke/SC8_Data/SingleNeutrino/1.root"
       - "/work/aserinke/SC8_Data/SingleNeutrino/2.root"
       - "/work/aserinke/SC8_Data/SingleNeutrino/3.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/4.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/5.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/6.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/7.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/8.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/9.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/10.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/11.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/12.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/13.root"
+      - "/work/aserinke/SC8_Data/SingleNeutrino/14.root"
     sig:
       - "/work/aserinke/SC8_Data/lightHbb/lightHbb_M20to80_Pt50to200.root"
 
